@@ -80,10 +80,10 @@ export function Header() {
   return (
     <>
       <header className="fixed top-0 w-full z-50 bg-gray-900/80 backdrop-blur-md border-b border-gray-800">
-        <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8">
+        <nav className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8">
           <div className="flex lg:flex-1">
             <Link href="/" className="-m-1.5 p-1.5 flex items-center gap-2">
-              <Brain className="h-8 w-8 text-white-500" />
+              <Brain className="h-5 w-5 text-white-500" />
               <span className="text-xl font-bold gradient-text">
                 Pixel Grow
               </span>

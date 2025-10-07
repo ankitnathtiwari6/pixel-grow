@@ -119,9 +119,9 @@ export function Hero() {
       <div className="absolute inset-0 bg-gradient-to-br from-green-500/10 via-transparent to-blue-500/10"></div>
 
       <div className="relative z-10 mx-auto max-w-7xl px-6 lg:px-8 text-center">
-        <div className="mx-auto max-w-4xl">
-          <div className="flex justify-center mb-8">
-            <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-400 ring-1 ring-gray-700 hover:ring-green-500/50 transition-all">
+        <div className="mx-auto max-w-4xl md-mb-10">
+          <div className="flex justify-center mb-16">
+            <div className="relative mt-12 rounded-full px-3 py-1 text-sm leading-6 text-gray-400 ring-1 ring-gray-700 hover:ring-green-500/50 transition-all">
               <Sparkles className="inline h-4 w-4 mr-1 text-green-500" />
               AI-Powered Marketing Revolution
             </div>
